@@ -1,0 +1,7 @@
+name: mongo-express
+container:
+  name: mongo-express
+  image: nginx
+  port: 8081
+  verson: 1.16
+namespace: mongodb-example
